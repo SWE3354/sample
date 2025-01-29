@@ -27,9 +27,9 @@ Our project is a web application for announcing and inviting people to events to
 - Picture of your ReadMe in your repo (.jpg or .png)<br>
 
 <hr>
+<h2>Questions</h2>
 
-
-Details for the basic markdown syntax in markdown files can be found [here](https://www.markdownguide.org/basic-syntax/) and Github-specific formatting can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+If you're having trouble wrinting markdown, you can find details for markdown syntax [here](https://www.markdownguide.org/basic-syntax/). Github-specific markdown features/formatting can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 <br>
 In case of additional quesitons, email grader: thejaswin.kumaran@utdallas.edu
 
